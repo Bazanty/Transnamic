@@ -101,5 +101,14 @@
       "comments": []
     }
   ],
-  "users" : []
+  "users": [
+    {
+      "id": "cd63",
+      "name": "brian",
+      "email": "bazantyloffan@gmail.com",
+      "type": "Roll-On Roll-Off",
+      "destination": "nairobi",
+      "message": "make it quick"
+    }
+  ]
 }
